@@ -1,0 +1,158 @@
+{
+    "Physics Class - 11": {
+        "Chapters": {
+            "Physical World": true,
+            "Units": true,
+            "Motion in Straight Line": true,
+            "Motion in a Plane": true,
+            "Laws of Motion": false,
+            "Work Power Energy": false,
+            "System Of Particles": false,
+            "Rotation": false,
+            "Gravitation": false,
+            "Solid Mechanics": false,
+            "Fluid Mechanics": false,
+            "Thermal Properties of Matter": false,
+            "Thermodynamics": false,
+            "Kinetic Theory": false,
+            "Oscillations": false,
+            "Waves": false
+        },
+        "Data": {
+            "total": 16,
+            "completed": 4
+        },
+        "Tests": {
+            "Physical World": {
+                "New Test": {
+                    "date": "23/5/2023",
+                    "time": "19:40:59",
+                    "name": "New Test",
+                    "desc": "New Test",
+                    "questions": {},
+                    "result": {
+                        "correct": 0,
+                        "wrong": 0,
+                        "unattempted": 0
+                    }
+                }
+            }
+        }
+    },
+    "Physics Class - 12": {
+        "Chapters": {
+            "Electric Charges And Fields": false,
+            "Electrostatic Potential and Capacitance": false,
+            "Current Eletricity": false,
+            "Moving charges and Magnetism": false,
+            "Magnetism and Matter": false,
+            "Electromagnetic Induction": false,
+            "Alternating Current": false,
+            "Electromagnetic Waves": false,
+            "Ray Optics": false,
+            "Wave Optics": false,
+            "Dual Nature of Radiation and Matter": false,
+            "Atoms": false,
+            "Nuclei": false,
+            "Semiconductors": false,
+            "Communications": false
+        },
+        "Data": {
+            "total": 15,
+            "completed": 0
+        }
+    },
+    "Chemistry Class - 11": {
+        "Chapters": {
+            "Mole Concept": true,
+            "Atomic Structure": true,
+            "Periodic Properties": true,
+            "Chemical Bonding": false,
+            "States of Matter": false,
+            "Thermodynamics": false,
+            "Equilibrium": false,
+            "Redox Reactions": false,
+            "Hydrogen": true,
+            "S-Block Elements": false,
+            "P-Block Elements": false,
+            "Some Basic Principles": false,
+            "Hydrocarbon": false,
+            "Environmental Chemistry": false
+        },
+        "Data": {
+            "total": 14,
+            "completed": 4
+        }
+    },
+    "Chemistry Class - 12": {
+        "Chapters": {
+            "The Solid State": false,
+            "Solutions": false,
+            "Electrochemistry": false,
+            "Chemical Kinetics": false,
+            "Surface Chemistry": false,
+            "General Principles of Isolation of elements": false,
+            "P-Block Elements": false,
+            "D&F-Block Elements": false,
+            "Coordination Compounds": false,
+            "Haloalkanes": false,
+            "Alcohols": false,
+            "Aldehydes": false,
+            "Amines": false,
+            "Biomolecules": false,
+            "Polymers": false,
+            "Chemistry in Everyday Life": false
+        },
+        "Data": {
+            "total": 16,
+            "completed": 0
+        }
+    },
+    "Maths Class - 11": {
+        "Chapters": {
+            "Sets": true,
+            "Relations and functions": true,
+            "Trignometry": false,
+            "Quadratic": false,
+            "Inequalities": false,
+            "Permutations and combinations": false,
+            "Binomial Theorems": false,
+            "Sequence and Series": false,
+            "Straight Lines": false,
+            "Circles": false,
+            "Parabola": false,
+            "Ellipse": false,
+            "Hyperbola": false,
+            "3-D Geometry": false,
+            "Limits and Derivatives": false,
+            "Statistics": false,
+            "Probability": false,
+            "Complex Numbers": false
+        },
+        "Data": {
+            "total": 18,
+            "completed": 2
+        }
+    },
+    "Maths Class - 12": {
+        "Chapters": {
+            "Relations and Functions": false,
+            "Inverse Trignometry": false,
+            "Matrices": false,
+            "Determinants": false,
+            "Continuity and Differentiability": false,
+            "Application of Derivatives": false,
+            "Integrals": false,
+            "Application of Integrals": false,
+            "Differential Equations": false,
+            "Vector Algebra": false,
+            "Three Dimensional Geometry": false,
+            "Linear Programming": false,
+            "Probability": false
+        },
+        "Data": {
+            "total": 13,
+            "completed": 0
+        }
+    }
+}
